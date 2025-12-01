@@ -1,16 +1,63 @@
 ## Hi there 👋
 
-<!--
-**PotatoBangBang/PotatoBangBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ismeet Kachhap 👋
+🚀 Passionate Full-Stack Web Developer
 
-Here are some ideas to get you started:
+I love building fast, modern, and scalable web applications. From frontend experiences to backend systems and cloud integrations — I enjoy working across the entire stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tech Stack
+Frontend
+
+⚡ Vite
+
+⚛️ Next.js
+
+📱 React Native + Expo
+
+Auth
+
+🔐 Clerk
+
+🔑 BetterAuth
+
+Backend / Databases
+
+🟩 Neon
+
+🟦 Supabase
+
+🔗 Convex
+
+🍃 MongoDB
+
+Cloud & Workflows
+
+⏳ Ingget (Inngest)
+
+Payments
+
+💳 Stripe
+
+🕊️ Dodo Payments
+
+🍋 LemonSqueezy
+
+Monitoring
+
+⚠️ Sentry
+
+🌟 What I Do
+
+Build scalable full-stack applications
+
+Create high-performance UIs
+
+Work with modern backend systems & serverless platforms
+
+Implement secure authentication & payment flows
+
+Deliver clean, maintainable code
+
+📫 Let's Connect
+
+If you'd like me to add your socials (GitHub, LinkedIn, Twitter), tell me and I’ll update the README.
