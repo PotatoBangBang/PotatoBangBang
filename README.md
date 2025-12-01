@@ -59,5 +59,3 @@ Implement secure authentication & payment flows
 Deliver clean, maintainable code
 
 📫 Let's Connect
-
-If you'd like me to add your socials (GitHub, LinkedIn, Twitter), tell me and I’ll update the README.
